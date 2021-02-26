@@ -1,0 +1,11 @@
+{
+  "name": "navyastudio",
+  "version": "1.0.0",
+  "description": "this the project for navya studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
